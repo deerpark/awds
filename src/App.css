@@ -1,0 +1,8 @@
+:root {
+  --awds-color-brand-primary: 215, 100%, 50%, 1;
+  --awds-color-brand-primary-hovered: 215, 100%, 50%, 0.8;
+  --awds-color-brand-primary-pressed: 215, 100%, 45%, 1;
+  --awds-color-brand-primary-soft: 215, 100%, 50%, 0.08;
+  --awds-color-brand-primary-soft-hovered: 215, 100%, 50%, 0.12;
+  --awds-color-brand-primary-soft-pressed: 215, 100%, 50%, 0.16;
+}
